@@ -268,7 +268,7 @@ public class rr extends AppCompatActivity {
 
                 rr_view.setVisibility(View.VISIBLE);
 
-                while (rp!=0){
+                whil (rp!=0){
 
                     if(rt[i]>q){
                         rt[i] = rt[i] - q;
